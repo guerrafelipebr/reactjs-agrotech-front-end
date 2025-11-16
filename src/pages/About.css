@@ -1,0 +1,129 @@
+.about-page {
+  min-height: 100vh;
+}
+
+.about-header {
+  background: linear-gradient(135deg, #1e7e34 0%, #2d9b4a 100%);
+}
+
+.mission-vision {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.mission-vision .card {
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.mission-vision .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(30, 126, 52, 0.15) !important;
+}
+
+.about-content {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.about-text h2 {
+  font-size: 2.5rem;
+}
+
+.about-text .lead {
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
+
+.ods-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.ods-card {
+  border-radius: 15px;
+  border-left: 5px solid #1e7e34;
+}
+
+.ods-goals {
+  background: #f0f8f4;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #1e7e34;
+}
+
+.goals-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.goals-list li {
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.goals-list li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #1e7e34;
+  font-weight: bold;
+}
+
+.ods-commitment {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.ods-commitment ul {
+  list-style-position: inside;
+  padding-left: 1rem;
+}
+
+.ods-commitment ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.values-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.value-card {
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+
+.value-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(30, 126, 52, 0.2) !important;
+}
+
+.value-icon {
+  font-size: 3rem;
+}
+
+@media (max-width: 768px) {
+  .about-header {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+
+  .about-header h1 {
+    font-size: 1.75rem;
+  }
+
+  .about-text h2 {
+    font-size: 1.75rem;
+  }
+
+  .about-text .lead {
+    font-size: 1rem;
+  }
+
+  .value-card {
+    margin-bottom: 1rem;
+  }
+}
