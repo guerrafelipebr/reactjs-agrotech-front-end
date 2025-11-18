@@ -50,7 +50,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <span className="me-2">📧</span>
-                  {t('footer.email')}: info@SmartFarm Brasil.com.br
+                  {t('footer.email')}: info@smartFarmbrasil.com.br
                 </li>
                 <li>
                   <span className="me-2">📍</span>
