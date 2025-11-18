@@ -16,11 +16,11 @@ export default function Footer() {
               <h5 className="text-success mb-3">
                 <img 
                   src="/images/logo.svg" 
-                  alt="AgroTech" 
+                  alt="SmartFarm Brasil" 
                   height="40" 
                   className="me-2"
                 />
-                AgroTech
+                SmartFarm Brasil
               </h5>
               <p>
                 {t('home.description')}
@@ -50,7 +50,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <span className="me-2">📧</span>
-                  {t('footer.email')}: info@agrotech.com.br
+                  {t('footer.email')}: info@smartFarmbrasil.com.br
                 </li>
                 <li>
                   <span className="me-2">📍</span>
