@@ -239,8 +239,8 @@ export default function Contact() {
                     📧 {t('footer.email')}
                   </h5>
                   <p className="text-muted">
-                    info@SmartFarm Brasil.com.br<br/>
-                    support@SmartFarm Brasil.com.br
+                    info@smartfarmbrasil.com.br<br/>
+                    support@smartfarmbrasil.com.br
                   </p>
                 </Card.Body>
               </Card>
