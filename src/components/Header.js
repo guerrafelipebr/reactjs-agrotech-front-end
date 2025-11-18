@@ -18,11 +18,11 @@ return (
             <Navbar.Brand as={Link} to="/" className="brand-logo">
                 <img 
                     src="/images/logo.svg" 
-                    alt="AgroTech Logo" 
+                    alt="SmartFarm Brasil Logo" 
                     height="50" 
                     className="me-2"
                 />
-                <span className="brand-text">AgroTech</span>
+                <span className="brand-text">SmartFarm Brasil</span>
             </Navbar.Brand>
             <Navbar.Toggle 
                 aria-controls="basic-navbar-nav" 

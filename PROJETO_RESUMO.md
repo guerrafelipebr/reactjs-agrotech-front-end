@@ -1,8 +1,8 @@
-# 📋 Resumo do Projeto AgroTech
+# 📋 Resumo do Projeto SmartFarm Brasil
 
 ## ✅ Projeto Concluído com Sucesso!
 
-A aplicação **AgroTech** foi desenvolvida com sucesso seguindo todas as especificações solicitadas.
+A aplicação **SmartFarm Brasil** foi desenvolvida com sucesso seguindo todas as especificações solicitadas.
 
 ---
 
@@ -127,7 +127,7 @@ src/
 
 ### Desenvolvimento
 ```bash
-cd c:\Users\User\Documents\agrotech-react
+cd c:\Users\User\Documents\SmartFarm Brasil-react
 $env:PORT=3001; npm start
 ```
 Aplicação rodando em: `http://localhost:3001`
@@ -142,7 +142,7 @@ npm run build
 ## 🔐 Credenciais Demo
 
 Para testar o sistema:
-- **Email**: demo@agrotech.com.br
+- **Email**: demo@SmartFarm Brasil.com.br
 - **Senha**: 123456
 
 ---

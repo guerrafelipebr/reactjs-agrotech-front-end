@@ -239,8 +239,8 @@ export default function Contact() {
                     📧 {t('footer.email')}
                   </h5>
                   <p className="text-muted">
-                    info@agrotech.com.br<br/>
-                    support@agrotech.com.br
+                    info@SmartFarm Brasil.com.br<br/>
+                    support@SmartFarm Brasil.com.br
                   </p>
                 </Card.Body>
               </Card>
@@ -285,7 +285,7 @@ export default function Contact() {
               </h3>
               <div className="map-container">
                 <iframe
-                  title="AgroTech Location"
+                  title="SmartFarm Brasil Location"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.8482627236787!2d-46.65716882346823!3d-23.561414872073408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0edb6d%3A0x92f51c1f39673c5d!2sAv.%20Paulista%2C%201000%20-%20Bela%20Vista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1700000000000"
                   width="100%"
                   height="400"

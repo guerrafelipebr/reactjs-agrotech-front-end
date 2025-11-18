@@ -1,10 +1,10 @@
-# AgroTech - Portal de Agricultura Sustentável
+# SmartFarm Brasil - Portal de Agricultura Sustentável
 
 Uma aplicação web moderna desenvolvida com **React** para ajudar produtores agrícolas a melhorar sua produtividade utilizando tecnologia e práticas sustentáveis.
 
 ## 🌱 Sobre o Projeto
 
-AgroTech é uma plataforma completa que oferece:
+SmartFarm Brasil é uma plataforma completa que oferece:
 
 - **Landing Page**: Informações sobre o portal e seus serviços
 - **Serviços**: Consultoria em práticas ecológicas, hortas agroecológicas, diagnóstico de sustentabilidade e gestão rural
@@ -36,7 +36,7 @@ AgroTech é uma plataforma completa que oferece:
 
 1. Clone ou acesse o repositório:
 ```bash
-cd agrotech-react
+cd SmartFarm Brasil-react
 ```
 
 2. Instale as dependências:
@@ -95,7 +95,7 @@ src/
 
 Para testar a funcionalidade de login, use:
 
-- **Email**: demo@agrotech.com.br
+- **Email**: demo@SmartFarm Brasil.com.br
 - **Senha**: 123456
 
 ## 🌍 Idiomas Suportados
@@ -118,7 +118,7 @@ Descrição detalhada dos serviços oferecidos:
 - Gestão Rural
 
 ### Sobre (`/about`)
-Informações sobre a missão, visão e valores da AgroTech, além de detalles sobre o ODS 2.
+Informações sobre a missão, visão e valores da SmartFarm Brasil, além de detalles sobre o ODS 2.
 
 ### Contato (`/contact`)
 Formulário para entrar em contato com a equipe, com validação de campos.
@@ -179,4 +179,4 @@ Para dúvidas ou sugestões sobre o projeto, entre em contato através da págin
 
 ---
 
-**AgroTech** - Tecnologia para Agricultura Sustentável 🌱🌍
+**SmartFarm Brasil** - Tecnologia para Agricultura Sustentável 🌱🌍

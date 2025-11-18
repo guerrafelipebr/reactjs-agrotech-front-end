@@ -60,7 +60,7 @@ export default function Login({ onLogin }) {
                 <div className="text-center mb-4">
                   <img 
                     src="/images/logo.svg" 
-                    alt="AgroTech" 
+                    alt="SmartFarm Brasil" 
                     height="60"
                     className="mb-3"
                   />
@@ -140,7 +140,7 @@ export default function Login({ onLogin }) {
                 <div className="demo-credentials mt-4 p-3 bg-light rounded">
                   <small className="text-muted">
                     <strong>Demo Credentials:</strong><br/>
-                    Email: demo@agrotech.com.br<br/>
+                    Email: demo@SmartFarm Brasil.com.br<br/>
                     Password: 123456
                   </small>
                 </div>

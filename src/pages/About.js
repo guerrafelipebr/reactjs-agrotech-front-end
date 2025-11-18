@@ -120,7 +120,7 @@ export default function About() {
                       Nosso Compromisso
                     </h5>
                     <p className="text-muted">
-                      A AgroTech se compromete a contribuir para o alcance do ODS 2 através de:
+                      A SmartFarm Brasil se compromete a contribuir para o alcance do ODS 2 através de:
                     </p>
                     <ul className="text-muted">
                       <li>Desenvolvimento de ferramentas tecnológicas acessíveis para pequenos e médios produtores</li>

@@ -102,7 +102,7 @@ export default function Register({ onRegister }) {
                 <div className="text-center mb-4">
                   <img 
                     src="/images/logo.svg" 
-                    alt="AgroTech" 
+                    alt="SmartFarm Brasil" 
                     height="60"
                     className="mb-3"
                   />
